@@ -113,22 +113,13 @@ recorded data is shown at the ThingSpeak platform as follow -
 
 ![Status](status_1.png)
 
-The user needs to login the ThingSpeak platform from the registered account to view and monitor
-the sensor data. The Arduino sketch manages to read sensor data and send the AT commands for
-connecting with the IOT platform.
+The user needs to login the ThingSpeak platform from the registered account to view and monitorthe sensor data. The Arduino sketch manages to read sensor data and send the AT commands for connecting with the IOT platform.
 
 ![Status](Status_2.png)
 
 
 ### Conclusion
 
-The Automatic Air quality management system is a step forward to contribute a solution to the
-biggest threat. The air monitoring system overcomes the problem of the highly-polluted areas
-which is a major issue. It supports the new technology and effectively supports the healthy life
-concept. This system has features for the people to monitor the amount of pollution on their mobile
-phones using the application. The system to monitor the air of environment using Arduino
-microcontroller, IOT Technology is proposed to improve quality of air. With the use of IOT
-technology enhances the process of monitoring various aspects of environment such as air quality
-monitoring issue proposed in this paper.
+The Automatic Air quality management system is a step forward to contribute a solution to the biggest threat. The air monitoring system overcomes the problem of the highly-polluted areas which is a major issue. It supports the new technology and effectively supports the healthy life concept. This system has features for the people to monitor the amount of pollution on their mobile phones using the application. The system to monitor the air of environment using Arduino microcontroller, IOT Technology is proposed to improve quality of air. With the use of IOT technology enhances the process of monitoring various aspects of environment such as air quality monitoring issue proposed in this project.
 
 ![Finished Project Image](project_image.png)
