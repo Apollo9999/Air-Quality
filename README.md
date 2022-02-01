@@ -6,7 +6,6 @@ Air quality has a significant impact on the overall well-being of humans and soc
 
 Temporal forecasting of temperature and Carbon Monoxide (CO) sensor data one day ahead: It can assist the general public and government officials in anticipating trends early in order to make timely decisions and take preventative actions.Our project solution measures and monitors the amount of toxic substances cars and other machines emit from their exhaust and recommends when they should be GROUNDED TILL SERVICED.It uses MQ135 sensor, Arduino, LCD and other electronic components to achieve this.It measures the emission and air quality in ppm and displays the readings on the LCD.These toxic substances, chiefly hydrocarbons, carbon monoxide, and oxides of nitrogen, cause objectionable air pollution. The solution enables car owners and road safety officials to ascertain road worthiness of vehicles and ensure its emission concentration complies with Public Health Standards.These emissions can cause fatal air poisoning and is mostly responsible for seizure, coma, and fatality in humans. They can cause malfunctioning of the lungs and can increase the risk of respiratory disease. They can also cause lung cancer, influenza, and asthma.
 
-
 ### Abstract
 
 Air pollution has become a common phenomenon everywhere. Specially in the urban areas, airpollution is a real-life problem. A lot of people get sick only due to air pollution. In the urbanareas, the increased number of petrol and diesel vehicles and the presence of industrial areas at the outskirts of the major cities are the main causes of air pollution. The problem is seriously intensified in the metropolitan cities. Also, the climate change is now apparent. The governmentsall around the world are taking every measure in their capacity. Many European countries haveaimed to replace petrol and diesel vehicles with the electric vehicles by 2030. Even India has aimed to do so by 2025. The use of coal for electricity generation is now going to be a thing of past. The nations are now focusing to generate energy from nuclear reactors and the renewable
@@ -17,6 +16,10 @@ some device when pollution goes beyond some level, like we can switch on the Exh
 ### Objective
 
 Our objective is to get the required data from sensors and to project that on thingspeak cloud to analyze it using a machine learning model. Further a SMS is send to the concerned person if gas ppm goes above a particular level.
+
+### Data Set Considered here 
+
+https://www.kaggle.com/fedesoriano/air-quality-data-set?select=AirQuality.csv
 
 ### Required Components
 
